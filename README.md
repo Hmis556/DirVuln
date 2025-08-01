@@ -16,6 +16,7 @@ Directory Navigator & Common Vuln Playground
 🔒 **严禁在生产环境部署使用**
 ## 后续计划
 📚 项目使用笔记与详细文档将陆续公开
+按小键盘"."可以直接用GitHub的dev部署。
 [索引页面截图]
 ![alt text](image.png)
 
